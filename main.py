@@ -62,7 +62,7 @@ unknown_cols[unknown_cols > 0]
 
 # We import a custom package made for this project and contains all the
 # functions used
-from Functions import marketing_campaings_functions as mcf
+from Functions import marketing_campaigns_functions as mcf
 
 # Visualize the distribution of the number of clients who subscribed
 mcf.visualizeCategoricalVar(bank_marketing_df, col='subscribed', hue=None,
