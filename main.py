@@ -1,4 +1,14 @@
+  
 """
+-------------------------------------------------------------------
+-- Title:
+-- File:    main.py
+-- Purpose: Analysis of the dataset & development of the machine learning
+            algorithms to predict which clients are most likely to subsribe
+            to a product
+-- Author:  Georgios Spyrou
+-- Date:    08/08/2020
+-------------------------------------------------------------------
 """
 
 # Import dependencies

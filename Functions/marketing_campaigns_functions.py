@@ -1,4 +1,11 @@
 """
+-------------------------------------------------------------------
+-- Title:
+-- File:    marketing_campaigns_functions.py
+-- Purpose: Custom functions used for the project
+-- Author:  Georgios Spyrou
+-- Date:    08/08/2020
+-------------------------------------------------------------------
 """
 
 # Import dependencies
