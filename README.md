@@ -8,3 +8,4 @@ Useful Links:
 3. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 4. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score
 5. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+6. https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
