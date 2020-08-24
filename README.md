@@ -9,3 +9,5 @@ Useful Links:
 4. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score
 5. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 6. https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
+
+The project's introduction picture has been taken from <a href="https://slideplayer.com/slide/15747121/">here</a>.
