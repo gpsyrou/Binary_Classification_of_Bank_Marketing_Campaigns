@@ -2,6 +2,8 @@
 
 Exploratory data analysis (EDA) and development of classification algorithms (Logistic Regression, Random Forest) to predict clients that are most likely to subscribe to a bank's product, as a result of marketing campaigns.
 
+<img src="https://github.com/gpsyrou/Binary-Classification-on-Bank-Marketing-Campaigns/blob/master/project_picture.jpg" style="vertical-align:middle;margin:0px 0px">
+
 Useful Links:
 1. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
 2. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
