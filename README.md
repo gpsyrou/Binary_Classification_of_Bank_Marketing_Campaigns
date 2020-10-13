@@ -1,4 +1,4 @@
-# Binary-Classification-of-Bank-Marketing-Campaigns
+# Binary Classification of Direct Marketing Campaign Subscriptions: A Logistic Regression \& Random Forest Approach
 
 Exploratory data analysis (EDA) and development of classification algorithms (Logistic Regression, Random Forest) to predict clients that are most likely to subscribe to a bank's product, as a result of marketing campaigns.
 
